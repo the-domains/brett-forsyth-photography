@@ -1,0 +1,28 @@
+name: Brett Forsyth Photography
+favicon: null
+layout_spectrum: 0.10934031149372458
+typography_spectrum: 0.9794887674506754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.01239491393789649
+  lightness: 0.6780805366579443
+  saturation: 0.3778194335754961
+  rhythmicContrast: 0.8676473444793373
+purpose: []
